@@ -3,9 +3,6 @@ description: "Olá! Por favor preenche este formulário para que possamos resolv
 title: "[Bug]: <inserir título>"
 labels: ["bug"]
 body:
-  - type: markdown
-    attributes:
-      value: Pedimos-te que preenchas este formulário para que te possamos ajudar
   - type: input
     id: email
     attributes:
