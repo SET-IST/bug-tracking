@@ -1,6 +1,6 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: <Por favor insere o título aqui>"
+name: Reportar problema
+description: "Olá! Por favor preenche este formulário para que possamos resolver o teu problema"
+title: ""
 labels: ["bug"]
 body:
   - type: markdown
