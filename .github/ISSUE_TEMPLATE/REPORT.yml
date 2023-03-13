@@ -38,3 +38,9 @@ body:
         - Safari
         - Microsoft Edge
         - Outro
+  - type: markdown
+    attributes:
+      value: "## Já temos tudo, obrigado pelo teu contributo!"
+  - type: markdown
+    attributes:
+      value: "### Carrega no botão que está no final deste formulário para submeteres o teu report"
