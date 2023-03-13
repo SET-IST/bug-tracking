@@ -1,6 +1,5 @@
 name: Reportar problema
 description: "Olá! Por favor preenche este formulário para que possamos resolver o teu problema"
-title: "Insere um título para o teu problema"
 labels: ["bug"]
 body:
   - type: input
